@@ -12,9 +12,13 @@ In this project, we aim to predict whether an individual might have diabetes usi
 The dataset used in this project is sourced from Kaggle: [Diabetes Dataset](https://www.kaggle.com/datasets/johndasilva/diabetes).
 
 ## Technologies Used
-- Python
-- Jupyter Notebook
-- Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- ![Python](https://imgur.com/eyr5Uqi) Python
+- ![Jupyter Notebook](https://imgur.com/DHbkwUm) Jupyter Notebook
+- ![NumPy](https://imgur.com/pdphE9H) NumPy
+- ![Pandas](https://imgur.com/DB5dbsd) Pandas
+- ![Matplotlib](https://imgur.com/Yu7oG8P) Matplotlib
+- ![Scikit-learn](https://imgur.com/jYJTBZG) Scikit-learn
+
 
 
 ## Data Exploration
